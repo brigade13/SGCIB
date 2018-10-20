@@ -1,5 +1,3 @@
-package org.sgcib.kata;
-
 /**
  * @author Imed BOUBAKER
  *
