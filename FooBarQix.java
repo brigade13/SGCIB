@@ -1,5 +1,3 @@
-package main.org.sg.kata;
-
 import java.util.function.Predicate;
 import java.util.stream.Stream;
 
