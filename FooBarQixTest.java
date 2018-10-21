@@ -1,5 +1,3 @@
-package main.org.sg.kata;
-
 import org.junit.Assert;
 import org.junit.Test;
 
